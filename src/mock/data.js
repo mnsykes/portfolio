@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hi, my name is',
   name: 'Matthew Sykes',
   subtitle: 'and I am looking for my first job as a developer',
-  cta: 'Tell me more...',
+  cta: 'Learn more',
 };
 
 // ABOUT DATA
@@ -71,8 +71,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Get in touch',
-  btn: 'Holla at me',
+  cta: `If you like what you see, let's talk some more`,
+  btn: 'Say Hi',
   email: 'msykes.dev@gmail.com',
 };
 
